@@ -1,4 +1,4 @@
-#PCA based face recognition
+# PCA based face recognition
 
 For details about the algorithms and results please check report.pdf
 
